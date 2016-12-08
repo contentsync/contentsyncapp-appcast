@@ -1,0 +1,16 @@
+#!/bin/sh
+
+DIR=$(dirname "$0")
+
+echo "Zipping to $1.zip"
+
+ditto -c -k --sequesterRsrc --keepParent $1 ContentSync.sparkle_guided.pkg.zip
+
+echo "DSA Key:"
+echo ""
+
+$DIR/sign_update ContentSync.sparkle_guided.pkg.zip $DIR/dsa_priv.pem
+
+echo ""
+echo "File Info:"
+ls -all ContentSync.sparkle_guided.pkg.zip 
