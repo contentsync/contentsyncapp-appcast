@@ -4,7 +4,13 @@ DIR=$(dirname "$0")
 
 echo "Zipping to $1.zip"
 
-cp $1 ContentSync.sparkle_guided.pkg
+echo "Copying..."
+cp $1 ContentSync.sparkle_guided.unsigned.pkg
+
+echo "Signing..."
+productsign --sign "Developer ID Installer: David Brody (VEE7GAJJB2)" ContentSync.sparkle_guided.unsigned.pkg ContentSync.sparkle_guided.pkg
+
+echo "Zipping..."
 ditto -c -k --sequesterRsrc ContentSync.sparkle_guided.pkg ContentSync.sparkle_guided.pkg.zip
 
 echo "DSA Key:"
