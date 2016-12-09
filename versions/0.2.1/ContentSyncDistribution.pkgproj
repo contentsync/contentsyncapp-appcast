@@ -437,13 +437,6 @@
 			</dict>
 			<key>PACKAGE_SCRIPTS</key>
 			<dict>
-				<key>POSTINSTALL_PATH</key>
-				<dict>
-					<key>PATH</key>
-					<string>/Users/dbrody/Projects/contentsync/contentsyncapp-appcast/versions/0.2.1/postinstall.sh</string>
-					<key>PATH_TYPE</key>
-					<integer>0</integer>
-				</dict>
 				<key>RESOURCES</key>
 				<array>
 					<dict>
