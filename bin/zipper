@@ -4,7 +4,7 @@ DIR=$(dirname "$0")
 
 echo "Zipping to $1.zip"
 
-ditto -c -k --sequesterRsrc --keepParent $1 ContentSync.sparkle_guided.pkg.zip
+ditto -c -k --sequesterRsrc $1 ContentSync.sparkle_guided.pkg.zip
 
 echo "DSA Key:"
 echo ""
