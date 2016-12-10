@@ -6,6 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.4.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Simplifies and completes dropdown navigation</li>
+              <li>Better intgration with ContentSync Platform</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 9 Dec 2016 16:05:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.4.0/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.4.0" length="3928176" type="application/octet-stream" sparkle:dsaSignature="MCwCFGphNb6syHojcRY4kXP1GczhuR2EAhRtcqu9SmSMvhY6BG/TKhiQWVHHMA==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.3.0</title>
         <description>
           <![CDATA[
