@@ -6,6 +6,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.5.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Updates Readme and Terms of Service on installer</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 9 Dec 2016 16:50:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.5.0/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.5.0" length="7231619" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCb6u55wtUQZy/GJh7jajghK9wOFQIUOl6IPN+k+DGLzF0cOJnZjBQzy3w=" />
+      </item>
+      <item>
         <title>ContentSync.app 0.4.0</title>
         <description>
           <![CDATA[
