@@ -6,6 +6,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.5.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Updates platform pointer to contentsync.io</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 14 Dec 2016 16:50:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.5.1/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.5.1" length="3925383" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCT7lbXzYy8sfUDmGSqlLBJsx+sOAIUSdj3Ga0e6vUCOBEnxFPvGxR6c0U=" />
+      </item>
+      <item>
         <title>ContentSync.app 0.5.0</title>
         <description>
           <![CDATA[
