@@ -6,6 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.6.13</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Improved reporting screens for platform errors</li>
+              <li>Ability to clear settings on error screen</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 11 Jan 2017 18:00:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.6.13/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.6.13" length="3934840" type="application/octet-stream" sparkle:dsaSignature="MCwCFDqhlXATHsVePFxoN6kBgJ0kIO4iAhQ0uh8lEFDEFVFCERppa/a5hpUIaw==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.6.12</title>
         <description>
           <![CDATA[
