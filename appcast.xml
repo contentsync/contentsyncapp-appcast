@@ -6,6 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.6.14</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Optimizations of data transport for larger requests.</li>
+              <li>Removes automatic 3 second disappearance after a sync.</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 13 Jan 2017 12:44:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.6.14/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.6.14" length="3940798" type="application/octet-stream" sparkle:dsaSignature="MCwCFGIVD+EeTDyI8nin3tE1JegpqD0FAhRyUEPCV7EYptCfKJ5srmgvg5UWvw==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.6.13</title>
         <description>
           <![CDATA[
