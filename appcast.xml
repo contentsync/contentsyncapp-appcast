@@ -6,6 +6,22 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.6.16</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Enabled periodic checking for updates.</li>
+              <li>Adds version index to project default for querying for specific versions.</li>
+              <li>More verbose status on errors.</li>
+              <li>Makes project name a link on sync complete screen.</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 13 Jan 2017 17:30:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.6.16/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.6.16" length="3944978" type="application/octet-stream" sparkle:dsaSignature="MCwCFF5DnEU8R323d8tdmlDf3HOKaiVHAhRG55LsT2xgtMRGkuFpqvPwDoTj4Q==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.6.15</title>
         <description>
           <![CDATA[
