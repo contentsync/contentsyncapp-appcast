@@ -6,6 +6,21 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.1</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Content Pushing now available!</li>
+              <li>Migrates to new User Interface</li>
+              <li>More flexible key matching for layer names - 'sync:' is option</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Tue, 28 Feb 2017 23:57:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.1/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.1" length="4504057" type="application/octet-stream" sparkle:dsaSignature="MC0CFCIy0FZDDVTLCo1klgA3+cfYsopXAhUAuCJDdDtJztLd9zadCsaBHJQWITM=" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.0</title>
         <description>
           <![CDATA[
