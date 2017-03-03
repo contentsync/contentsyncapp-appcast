@@ -6,6 +6,18 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Better integration with ContentSync Platform onboarding</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Thur, 2 Mar 2017 18:10:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.2/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.2" length="4503655" type="application/octet-stream" sparkle:dsaSignature="MCwCFGw2OHYWry1OmuHcC6d2alRGB7faAhQijNobdsi1UAY6watqAF35QpLO7A==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.1</title>
         <description>
           <![CDATA[
