@@ -15,7 +15,7 @@
           ]]>
         </description>
         <pubDate>Thur, 2 Mar 2017 18:10:11 +0800</pubDate>
-        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.2/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.2" length="4503655" type="application/octet-stream" sparkle:dsaSignature="MCwCFGw2OHYWry1OmuHcC6d2alRGB7faAhQijNobdsi1UAY6watqAF35QpLO7A==" />
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.2/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.2" length="4497326" type="application/octet-stream" sparkle:dsaSignature="MCwCFHWwWKcDJ449Jb7IXzC4C5CveN9UAhR0WbE3OkohzdCqs7ak5q/WW2vzcQ==" />
       </item>
       <item>
         <title>ContentSync.app 0.7.1</title>
