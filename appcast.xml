@@ -6,6 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.3</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Improves working with partial versions</li>
+              <li>Fixes bug when syncing new Sketch files</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Thur, 7 Mar 2017 10:10:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.3/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.3" length="4505918" type="application/octet-stream" sparkle:dsaSignature="MCwCFDV/H/nh3SXYnxqxCxFoyJ4m4NFkAhRDU7yD/dFf8EfyvzHfVaYsp1ahuA==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.2</title>
         <description>
           <![CDATA[
