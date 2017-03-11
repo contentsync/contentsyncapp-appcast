@@ -6,6 +6,21 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.4</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>SketchContentSync - Ensures regex matching for wildcards is for the full key</li>
+              <li>SketchContentSync - Makes symbol export / import not require 'sync:' (nested symbols is still unsupported)</li>
+              <li>ContentSync.app - Sketch file project lookup depends on name and ID to fix the UI not updating the name. Duplicated sketch files would have the same ID and thus not cause an update.</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 10 Mar 2017 19:36:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.4/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.4" length="4504868" type="application/octet-stream" sparkle:dsaSignature="MCwCFDnTTPi/H2zIQEy1pDI0UKkxDU6UAhQmKXIzYOdQQYJ/0ZoXAP0SvPxRaw==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.3</title>
         <description>
           <![CDATA[
