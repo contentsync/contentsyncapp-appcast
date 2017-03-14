@@ -6,6 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.5</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>SketchContentSync 2.0.0 - Moves to .framework for improved performance; better handling of symbols; better scaling.</li>
+              <li>Updates download and command paths for SketchContentSync 2.0.0</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Tue, 14 Mar 2017 01:11:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.5/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.5" length="4499550" type="application/octet-stream" sparkle:dsaSignature="MCwCFCogNrJhpAwitOsTSFlueJFChur/AhRX5OMs21Vp3f2uRxF012n7vi0HVA==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.4</title>
         <description>
           <![CDATA[
