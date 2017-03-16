@@ -6,6 +6,20 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.6</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fix for invalid newline character encoding in Text Labels</li>
+              <li>ContentSync Plugin version 2.0.2 now released</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Tue, 16 Mar 2017 14:16:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.6/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.6" length="4507393" type="application/octet-stream" sparkle:dsaSignature="MCwCFAyJsRk0L1+deJycWaIxY5xtlcfoAhRezeSKSOUDa14kdcXk55aKCePHWQ==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.5</title>
         <description>
           <![CDATA[
