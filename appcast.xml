@@ -6,6 +6,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.7.7</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Adds Native Sketch UI Panel</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Tue, 28 Mar 2017 11:08:11 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.7.7/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.7.7" length="4515092" type="application/octet-stream" sparkle:dsaSignature="MCwCFAu96GOsPt9hLVRAl4C8HNZEan/6AhRGHUuL57iqBKGB9/LkughRSgz6qQ==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.6</title>
         <description>
           <![CDATA[
