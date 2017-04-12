@@ -6,6 +6,23 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.8.0</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Changes key structure to include more context such as Artboard and Groups</li>
+              <li>Each Sketch page is now a separate Google Spreadsheet Sheet</li>
+              <li>Syncs object IDs into hidden column A for greater flexibility of layer names</li>
+              <li>New Sketch ContentSync Plugin V2.4.0</li>
+              <li>Removes need for local files to transfer data</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Wed, 4 Apr 2017 12:41:22 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.8.0/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.8.0" length="4513755" type="application/octet-stream" sparkle:dsaSignature="MCwCFC2qQkJRDzyHiWmesGoCGuhucSScAhRG/C+NBcFdboJNqqz2UzySECKsHw==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.7.7</title>
         <description>
           <![CDATA[
