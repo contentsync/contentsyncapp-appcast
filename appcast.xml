@@ -6,6 +6,22 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.8.2</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Speeds up pushing and pulling</li>
+              <li>Fixes issues with nested symbols</li>
+              <li>Additional project settings for more customized control</li>
+              <li>Improves security by using Keychain for storing credentials now.</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Wed, 19 Apr 2017 16:28:22 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.8.2/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.8.2" length="4511243" type="application/octet-stream" sparkle:dsaSignature="MC0CFC4KvkvDm8gVXkGnpKYHmZwvsL82AhUAgt/jV7mKsGfZrMNoTqwdyGR1QmI=" />
+      </item>
+      <item>
         <title>ContentSync.app 0.8.1</title>
         <description>
           <![CDATA[
