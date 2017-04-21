@@ -6,6 +6,19 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.8.4</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fix updating experience for older versions</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Fri, 21 Apr 2017 11:00:22 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.8.4/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.8.4" length="4513464" type="application/octet-stream" sparkle:dsaSignature="MCwCFERSu+cMnMfRdnOm37dnb4ujw/e0AhRV3kEFs7UVn3NjZZ2t66yuSZotzA==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.8.3</title>
         <description>
           <![CDATA[
