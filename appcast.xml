@@ -6,6 +6,21 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.8.5</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Fixes issues with syncing nest symbol instances with overrides</li>
+              <li>Updates order of pushed keys to follow order shown in Sketch layer list.</li>
+              <li>Updates Sketch ContentSync to version 2.4.2.</li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Tue, 25 Apr 2017 17:20:22 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.8.5/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.8.5" length="4512509" type="application/octet-stream" sparkle:dsaSignature="MC0CFGl0Q+kY1gcHZZFtEElF/Qz3J95mAhUAlK0pkqJJ4im8+7Iu72L7PmTH26k=" />
+      </item>
+      <item>
         <title>ContentSync.app 0.8.4</title>
         <description>
           <![CDATA[
@@ -253,7 +268,7 @@
         <description>
           <![CDATA[
             <ul>
-              <li>Updates API to https://www.contentsync.com/api/v1/</li>
+              <li>Updates API to https://www.contentsync.io/api/v1/</li>
             </ul>
           ]]>
         </description>
