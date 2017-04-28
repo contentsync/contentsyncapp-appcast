@@ -6,6 +6,21 @@
     <description>Most recent changes with links to updates.</description>
     <language>en</language>
       <item>
+        <title>ContentSync.app 0.8.6</title>
+        <description>
+          <![CDATA[
+            <i><strong>Pure ContentSync Platform Update</strong></i>
+            <ul>
+              <li>ContentSync Platform: Fixes Google Spreadsheet API issues for Sketch files with many pages on projects with 'Google Sheet Per Sketch Page' toggled on.</li>
+              <li><a href="https://www.contentsync.io/changelog">Updated Changelogs</a></li>
+            </ul>
+          ]]>
+        </description>
+        <sparkle:criticalUpdate />
+        <pubDate>Thur, 27 Apr 2017 17:35:22 +0800</pubDate>
+        <enclosure url="https://raw.githubusercontent.com/contentsync/contentsyncapp-appcast/master/versions/0.8.6/ContentSync.sparkle_guided.pkg.zip" sparkle:version="0.8.6" length="4513898" type="application/octet-stream" sparkle:dsaSignature="MCwCFGN5ltwTfjFxwDxSDb8DO6b3V5c9AhRxv/LiHhBBKQzkSzti8teQCPky5g==" />
+      </item>
+      <item>
         <title>ContentSync.app 0.8.5</title>
         <description>
           <![CDATA[
